@@ -1,4 +1,6 @@
 # Challenge Amigo Secreto
+![Imagen del Proyecto](assets/fullScreen-amigo-secreto.png)
+
 
 ## Description 
 
